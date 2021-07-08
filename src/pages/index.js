@@ -61,7 +61,7 @@ const IndexPage = () => (
               <div className="subheading mb-3">Intelitec Solutions</div>
               <p>
                 During my education on computer science I have created many web sites like: blood donors web site with php language and of course HTML/CSS, this portfolio 
-                with gatsby, I have given more importance to protect this web sites againt all breachs which can threaten the web site security.
+                with gatsby, along this period I have given more importance to protect this web sites against all breachs which can threaten the web site security.
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -89,7 +89,7 @@ const IndexPage = () => (
               <div className="subheading mb-3">Temporary Teacher </div>
               <p>
              As an tutor at the center university Nour Elbachir at Elbayadh my home town in Algeria I have tought students of the first level on science 
-             and technology field computer science topic where we have learned programming with Pascal  and I found this experience so helpful and precious on 
+             and technology field computer science topic where we have learned programming with Pascal, it was so helpful and precious experience on 
              my career.
 
               </p>
