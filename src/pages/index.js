@@ -60,11 +60,8 @@ const IndexPage = () => (
               <h3 className="mb-0">Web Developer</h3>
               <div className="subheading mb-3">Intelitec Solutions</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+                During my education on computer science I have created many web sites like: blood donors web site with php language and of course HTML/CSS, this portfolio 
+                with gatsby, I have given more importance to protect this web sites againt all breachs which can threaten the web site security.
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -77,14 +74,28 @@ const IndexPage = () => (
               <h3 className="mb-0">Software Engineer</h3>
               <div className="subheading mb-3">Intership in Dental clininc </div>
               <p>
-              -Collect the information needed.
-              -Search computerized solutions to various problems;
-              -Make the conception of an application for this clinic.
-
+               In order to construct an information system conception, basically it must collect the information needed and
+               search computerized solutions to various problems that's what I have done on my work in this dental clinic intership.
               </p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">March 2016 - May 2016</span>
+            </div>
+          </div>
+        
+           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">Tutot</h3>
+              <div className="subheading mb-3">Temporary Teacher </div>
+              <p>
+             As an tutor at the center university Nour Elbachir at Elbayadh my home town in Algeria I have tought students of the first level on science 
+             and technology field computer science topic where we have learned programming with Pascal  and I found this experience so helpful and precious on 
+             my career.
+
+              </p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">january 2021 - June 2021</span>
             </div>
           </div>
 
@@ -289,17 +300,37 @@ const IndexPage = () => (
               <i className="fa-li fa fa-trophy text-warning"></i>
                Smart Club  - Hackathon 2017
             </li>
-
+            
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
                ESI Prpgramming Competition - Hack Day
               2018
             </li>
             
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+               CyberSecurity Essentials - ICSI (International CyberSecurity Institute), UK
+              2020
+            </li>
             
-              
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+                Data Science Math Skills - Coursera
+              2020
+            </li>
+            
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+                 Les fondements des réseaux - LinkedIn
+              2020
+            </li>
            
-           
+            <li>
+              <i className="fa-li fa fa-trophy text-warning"></i>
+               5th place at PhD exam - Algeria competition
+              2021
+            </li>
+                         
           </ul>
         </div>
       </section>
