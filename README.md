@@ -8,7 +8,7 @@ Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-r
 
 ## Screenshot
 
-![Screenshot](./src/assets/img/demo.png)
+![Screenshot](./src/assets/img/demo.PNG)
 
 ## Install
 
